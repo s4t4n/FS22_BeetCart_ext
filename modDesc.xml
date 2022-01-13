@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+    <author>SbSh</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Beet Cart xtra</en>
+        <de>Beet Cart xtra</de>
+    </title>
+    <description>
+        <en>This version can also be loaded with potatoes.</en>
+        <de>Diese Version kann zusätlich mit Kartoffeln beladen werden.</de>
+    </description>
+    <iconFilename>store_beetCart.dds</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="beetCart.xml"/>
+    </storeItems>
+</modDesc>
